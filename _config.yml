@@ -1,5 +1,5 @@
 name: Alex Rajewski
-bio: 'A magician who turns coffee into codes'
+bio: 'A Botanist with a mild addiction to Science Fiction'
 picture: 'assets/images/mybio.jpg'
 
 url: http://rajewski.github.io
@@ -22,17 +22,17 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 disqus: npvinhphatgithubio
-facebook: NPVPhat
-twitter: npvinhphat
+facebook: alex.rajewski
+twitter: rajewski
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-# github: npvinhphat
+github: rajewski
 # medium: medium
-email: npvinhphat@gmail.com
+email: rajewski23@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
