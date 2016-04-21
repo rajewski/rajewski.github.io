@@ -15,7 +15,7 @@ permalink: /about/index.html
 	<li>Unix, R</li>
 	<li>Git</li>
 	<li>Jekyll</li>
-	<li>German (fluent0 </li>
+	<li>German (fluent) </li>
 	<li>Chinese (enough to be dangerous) </li>
 </ul>
 
