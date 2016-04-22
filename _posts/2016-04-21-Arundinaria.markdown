@@ -11,7 +11,7 @@ description: "My master's research project into the American bamboo, River cane,
 ![TallasseeForest](https://github.com/rajewski/rajewski.github.io/raw/master/assets/images/Tallassee%20Initial%20Hike%208.jpg)
 
 ---
-When most people thing of bamboo, their minds jump to Asia, but there are actually many species of bamboo that are native to North and South America. There are even a few species that grown naturally in the United States.
+When most people think of bamboo, their minds jump to Asia, but there are actually many species of bamboo that are native to North and South America. There are even a few species that grow naturally in the United States.
 
 The focus of my master's degree research project was one of these American bamboos called River cane. Scientifically, its name is <em>Arunindaria gigantea</em>, but naming and placing this plant in the family tree of bamboos has caused a surprising amount of debate over the last 200 years. Luckily my research sidestepped the taxonomy of River cane and focused on something more concrete.
 
