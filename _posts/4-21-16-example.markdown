@@ -1,5 +1,5 @@
 ---
-title: "Indigo, minimalist jekyll theme"
+title: "Indigo, minimalist jekyll themegh-pages"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
