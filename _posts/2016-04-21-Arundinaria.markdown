@@ -21,3 +21,5 @@ The problem really started about 500 years ago, and it involves Native American 
 ## Propagation
 
 Although bamboo is reknown for growing fast, it has some other characteristics that make it really bad at colonizing new spaces. Bamboos flower and make seeds <em> very very </em> rarely, like once every 30 years, and when they do make seeds the seeds are only good for about a week until they dry out and die. So all these new River cane plants aren't going to come from seeds. Luckily, you can propagate River cane by digging up and cutting apart its rhizomes. This is pretty effective, but its an enormous amount of work and it's a logistical nightmare to store the rhizomes and plant them before they die. All of this is why we decided to give tissue culture a shot.
+
+---
