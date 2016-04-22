@@ -8,4 +8,4 @@ projects: true
 description: "My master's research project into the American bamboo, River cane, including tissue culture and population gentics"
 ---
 
-
+Add some information about the project and its current status.
