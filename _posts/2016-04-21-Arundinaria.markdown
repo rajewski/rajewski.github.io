@@ -8,4 +8,7 @@ projects: true
 description: "My master's research project into the American bamboo, River cane, including tissue culture and population gentics"
 ---
 
+![TallasseeForest](https://github.com/rajewski/rajewski.github.io/raw/master/assets/images/Tallassee%20Initial%20Hike%208.jpg)
+
+---
 Add some information about the project and its current status.
