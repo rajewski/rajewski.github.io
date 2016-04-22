@@ -21,7 +21,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't have any of social below, comment the line
-disqus: npvinhphatgithubio
+# disqus: npvinhphatgithubio
 facebook: alex.rajewski
 twitter: rajewski
 # google: mygoogle
@@ -54,7 +54,7 @@ about: true
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+# show-tags: true
 
 # related posts inside a post?
 related: true
