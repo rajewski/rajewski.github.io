@@ -457,12 +457,14 @@ pre {
 }
 .home,
 .blog,
-.projects {
+.projects,
+.CV {
   margin-top: 125px;
 }
 .home > .list,
 .blog > .list,
-.projects > .list {
+.projects > .list,
+.CV > .list {
   border-top: 1px solid #ededed;
   margin-top: 30px;
   padding-top: 40px;
@@ -470,7 +472,8 @@ pre {
 }
 .home > .list:before,
 .blog > .list:before,
-.projects > .list:before {
+.projects > .list:before,
+.CV > .list:before {
   display: block;
   content: " ";
   width: 7px;
@@ -486,14 +489,16 @@ pre {
 }
 .home > .list > .item,
 .blog > .list > .item,
-.projects > .list > .item {
+.projects > .list > .item,
+.CV > .list > .item {
   display: block;
   width: 95%;
   margin: 0 auto;
 }
 .home > .list > .item > .url,
 .blog > .list > .item > .url,
-.projects > .list > .item > .url {
+.projects > .list > .item > .url,
+.CV > .list > .item > .url {
   width: 100%;
   display: block;
   padding: 20px 0;
@@ -501,7 +506,8 @@ pre {
 }
 .home > .list > .item > .url > .title,
 .blog > .list > .item > .url > .title,
-.projects > .list > .item > .url > .title {
+.projects > .list > .item > .url > .title,
+.CV > .list > .item > .url > .title {
   margin: 0;
   width: 75%;
   font-weight: 500;
@@ -510,12 +516,14 @@ pre {
 }
 .home > .list > .item:hover > .url > .title,
 .blog > .list > .item:hover > .url > .title,
-.projects > .list > .item:hover > .url > .title {
+.projects > .list > .item:hover > .url > .title, 
+.CV > .list > .item:hover > .url > .title {
   color: #4b0082;
 }
 .home > .list aside,
 .blog > .list aside,
-.projects > .list aside {
+.projects > .list aside,
+.CV > .list aside {
   position: relative;
   top: 2px;
   margin: 0;
@@ -529,13 +537,16 @@ pre {
 }
 .home > .list .item:hover .url aside,
 .blog > .list .item:hover .url aside,
-.projects > .list .item:hover .url aside {
+.projects > .list .item:hover .url aside,
+.CV > .list .item:hover .url aside {
   color: #666;
 }
-.projects > .list > .item > .url > .title {
+.projects > .list > .item > .url > .title,
+.CV > .list > .item > .url > .title {
   display: inline;
 }
-.projects > .list > .item > .url > .emoji {
+.projects > .list > .item > .url > .emoji,
+.CV > .list > .item > .url > .emoji {
   display: inline;
   position: relative;
   top: -4px;
