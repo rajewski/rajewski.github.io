@@ -18,7 +18,8 @@ The focus of my master's degree research project was one of these American bambo
 The problem really started about 500 years ago, and it involves Native American farmland, European diseases, disasterous wild pigs, and lots and lots of fire. But to make a long story short, River cane is fighting a losing battle and is becoming endangered. Lots of conservationists, limnologists, ecologists, and other scientists have noticed and are trying to help. Right now these people agree that we should be planting more River cane, and that leads to my research questions. Where are we going to get more of this rare plant and how do we know how much more River cane is enough?
 
 ---
-## Propagation
+
+## Propagatio
 
 Although bamboo is reknown for growing fast, it has some other characteristics that make it really bad at colonizing new spaces. Bamboos flower and make seeds <em> very very </em> rarely, like once every 30 years, and when they do make seeds the seeds are only good for about a week until they dry out and die. So all these new River cane plants aren't going to come from seeds. Luckily, you can propagate River cane by digging up and cutting apart its rhizomes. This is pretty effective, but its an enormous amount of work and it's a logistical nightmare to store the rhizomes and plant them before they die. All of this is why we decided to give tissue culture a shot.
 
