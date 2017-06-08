@@ -13,14 +13,7 @@ description: "My master's research project into the American bamboo River cane i
 ---
 When most people think of bamboo, their minds jump to Asia, but there are actually many species of bamboo that are native to North and South America. There are even a few species that grow naturally in the United States.
 
-The focus of my master's degree research project was one of these American bamboos called River cane. Scientifically, its name is <em>Arunindaria gigantea</em>, but naming and placing this plant in the family tree of bamboos has caused a surprising amount of debate over the last 200 years. Luckily my research sidestepped the taxonomy of River cane and focused on something more concrete.
+The focus of my master's degree research project was one of these American bamboos called river cane (<em>Arunindaria gigantea</em>). River cane once covered much of the American southeast, but in the last 200 years there has been a massive loss of river cane populations. These populations, called canebrakes, occur along rivers and often serve as riparian buffers, preventing erosion, abosrbing nitrogen runoff, and serving as a unique habitat for many birds and insects. There is much interest in restoring river cane populations, but several problems complicate this. River cane produces seeds very infrequently and unpredictably, so this is not a reliable source of new river cane for restoration. Additionally, although river cane (like many bamboos) spreads rapidly by underground rhizomes, harvesting rhizomes for restoration is labor intensive, logistically difficult, and potentially destructive to existing canebrakes. Another major problem, is that very little is known about the genetic diversity of river cane populations. Would it be sustainable to create new populations strictly of clones or what amount of genetic diversity is necessary to recreate a typical canebrake? To begin to address these issues, my master's project had two main questions:
 
-The problem really started about 500 years ago, and it involves Native American farmland, European diseases, disasterous wild pigs, and lots and lots of fire. But to make a long story short, River cane is fighting a losing battle and is becoming endangered. Lots of conservationists, limnologists, ecologists, and other scientists have noticed and are trying to help. Right now these people agree that we should be planting more River cane, and that leads to my research questions. Where are we going to get more of this rare plant and how do we know how much more River cane is enough?
-
----
-
-## Propagatio
-
-Although bamboo is reknown for growing fast, it has some other characteristics that make it really bad at colonizing new spaces. Bamboos flower and make seeds <em> very very </em> rarely, like once every 30 years, and when they do make seeds the seeds are only good for about a week until they dry out and die. So all these new River cane plants aren't going to come from seeds. Luckily, you can propagate River cane by digging up and cutting apart its rhizomes. This is pretty effective, but its an enormous amount of work and it's a logistical nightmare to store the rhizomes and plant them before they die. All of this is why we decided to give tissue culture a shot.
-
----
+1. Can tissue culture (micropropagation) be used to provide a consistent supply of river cane propagules?
+2. What are the levels of genetic diversity in river cane populations?
