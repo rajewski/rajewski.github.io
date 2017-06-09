@@ -22,7 +22,7 @@ The focus of my master's degree research project was one of these American bambo
 
 ## Current Work
 
-My final master's thesis is available for download here.
+My final master's thesis is available for download [here](https://www.dropbox.com/s/ru8d9nm9ewn57gr/Rajewski_Alex_C_201508_MS.pdf?dl=0) .
 
 I am currently working to generate additional sequence data on more individuals in order to finalize this project for publication.
 
