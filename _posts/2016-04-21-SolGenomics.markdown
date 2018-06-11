@@ -14,6 +14,8 @@ In nightshades, early diverging species like tobacco or petunia generally have a
 
 I am also involved in some early work extending this project into other species in the nightshade family with different evolutionary origins of dry and fleshy fruits. This includes the genus <em>Datura</em>, which has reverted back to a dry-fruit, and the genera <em>Cestrum</em> and <em>Brunfelsia</em>, which have both independently evolved fleshy berries.
 
+---
+
 Currently, this project has two phenomenal undergraduate students working on it with, as well as a number of very skilled past undergraduate 'alumni'.
 
 ### Current Undergraduates
