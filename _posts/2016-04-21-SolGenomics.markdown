@@ -22,7 +22,7 @@ Currently, this project has two phenomenal undergraduate students working on it 
 ##### Kevan Elkins 
 4th year, Plant Biology, UCR, Jan 2017 to Present
 
-![Kevan Elkins](https://github.com/rajewski/rajewski.github.io/blob/master/assets/images/Kevan%20Elkins.png "Kevan Elkins") 
+![KevanElkins](https://github.com/rajewski/rajewski.github.io/blob/master/assets/images/Kevan%20Elkins.png "Kevan Elkins") 
 
 ##### Jessica Le
 
