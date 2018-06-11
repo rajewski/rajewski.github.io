@@ -16,19 +16,15 @@ I am also involved in some early work extending this project into other species 
 
 ---
 
-Currently, this project has two phenomenal undergraduate students working on it with, as well as a number of very skilled past undergraduate 'alumni'.
+Currently, this project has two phenomenal undergraduate students working on it with me, as well as a number of very skilled past undergraduate 'alumni'.
 
 ### Current Undergraduates
 ##### Kevan Elkins 
 4th year, Plant Biology, UCR, Jan 2017 to Present
 
-![KevanElkins](https://github.com/rajewski/rajewski.github.io/blob/master/assets/images/Kevan%20Elkins.png) 
-
 ##### Jessica Le
 
 3rd year, Biology, UCR, Sept 2017 to Present
-
-Photo coming soon!
 
 ---
 ### Past Undergraduates
