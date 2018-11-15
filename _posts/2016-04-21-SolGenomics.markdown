@@ -11,7 +11,7 @@ description: "On the origins of fleshy fruits in the nightshade family"
 Throughout the evolution of flowering plants (angiosperms) there have been many evolutionary transitions from an ancestral dry fruit to a more derived flesy fruit. My current research examines the genetic mechanisms behind this economically and ecologically important plant trait in the nightshade family of plants (Solanaceae).
 
 <figure>
-    <img src="../assets/images/Solanaceae Annotated.pdf" alt="Sarkinen Phylogeny"/>
+    <img src="../assets/images/Solanaceae Annotated.jpg" alt="Sarkinen Phylogeny"/>
     <figcaption>Solanaceae phylogeny after Särkinen, et al, 2014. Fleshy-fruited taxa in red, dry-fruited taxa in black.</figcaption>
 </figure>
 
