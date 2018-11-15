@@ -21,7 +21,10 @@ Currently, this project has two phenomenal undergraduate students working on it 
 ### Current People
 
 ##### Jessica Le
+<img src="../assets/images/File Nov 15, 1 50 57 PM.jpeg" alt="Jessica Le" width="200"/>
+
 ![Jessica Le](../assets/images/File Nov 15, 1 50 57 PM.jpeg =200x)
+
 3rd year, Biology, UCR, Sept 2017 to Present
 
 ---
