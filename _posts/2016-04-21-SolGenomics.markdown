@@ -8,6 +8,9 @@ projects: true
 description: "On the origins of fleshy fruits in the nightshade family"
 ---
 
+![Nobtusifolia Series](../assets/images/IMG_1325.jpg)
+
+---
 Throughout the evolution of flowering plants (angiosperms) there have been many evolutionary transitions from an ancestral dry fruit to a more derived flesy fruit. My current research examines the genetic mechanisms behind this economically and ecologically important plant trait in the nightshade family of plants (Solanaceae).
 
 <figure>
