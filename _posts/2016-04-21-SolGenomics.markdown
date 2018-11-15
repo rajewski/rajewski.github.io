@@ -18,17 +18,16 @@ I am also involved in some early work extending this project into other species 
 
 Currently, this project has two phenomenal undergraduate students working on it with me, as well as a number of very skilled past undergraduate 'alumni'.
 
-### Current Undergraduates
-##### Kevan Elkins 
-4th year, Plant Biology, UCR, Jan 2017 to Present
+### Current People
 
 ##### Jessica Le
-
+![Jessica Le](../assets/images/File Nov 15, 1 50 57 PM.jpeg)
 3rd year, Biology, UCR, Sept 2017 to Present
 
 ---
-### Past Undergraduates
+### Past People
 
+##### Kevan Elkins
 ##### Arman Baghaei
 ##### Ashley Henry, graduate student at UW-Madison
 ##### Victoria Rios
