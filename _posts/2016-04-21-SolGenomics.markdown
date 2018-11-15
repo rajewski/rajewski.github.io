@@ -22,18 +22,18 @@ Currently, this project has two phenomenal undergraduate students working on it 
 
 ##### Jessica Le
 <img src="../assets/images/File Nov 15, 1 50 57 PM.jpeg" alt="Jessica Le" width="200"/>
-
-![Jessica Le](../assets/images/File Nov 15, 1 50 57 PM.jpeg =200x)
-
 3rd year, Biology, UCR, Sept 2017 to Present
 
 ---
 ### Past People
 
 ##### Kevan Elkins
+<img src="../assets/images/Kevan Elkins.png" alt="Kevan Elkins" width="150"/>
 ##### Arman Baghaei
 ##### Ashley Henry, graduate student at UW-Madison
+<img src="../assets/images/Ashley Henry.png" alt="Ashley Henry" width="150"/>
 ##### Victoria Rios
+<img src="../assets/images/VictoriaRios.jpg" alt="Victoria Rios" width="150"/>
 ##### Eric Chang
 
 
