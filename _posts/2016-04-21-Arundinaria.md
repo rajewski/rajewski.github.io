@@ -18,7 +18,7 @@ The focus of my master's degree research project was one of these American bambo
 1. What are the levels of genetic diversity in river cane populations?
 2. Can tissue culture (micropropagation) be used to provide a consistent supply of river cane propagules?
 
-My final master's thesis is available for download [here](https://www.dropbox.com/s/ru8d9nm9ewn57gr/Rajewski_Alex_C_201508_MS.pdf?dl=0). I was able to answer both questions that I proposed for this project. In brief, the river cane populations I analyzed were dominated by one large clone with a few other genetically distinct individuals mixed it. Using tissue culture, I was able to multiply river cane shoots, but I was unable to induce rooting.
+My final master's thesis is available for download [here](https://www.dropbox.com/s/ru8d9nm9ewn57gr/Rajewski_Alex_C_201508_MS.pdf?dl=0). I was able to answer both questions that I proposed for this project. In brief, the river cane populations I analyzed were dominated by one large clone with a few other genetically distinct individuals mixed in. Using tissue culture, I was able to multiply river cane shoots, but I was unable to induce rooting.
 
 ---
 
