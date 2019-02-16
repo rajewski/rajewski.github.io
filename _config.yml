@@ -27,7 +27,7 @@ twitter: rajewski
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: alex-rajewski-74b492103
 # youtube: myyoutube
 # spotify: myspotify
 github: rajewski
@@ -50,6 +50,7 @@ projects: true
 about: true
 # blog: true
 CV: true
+Publications: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
