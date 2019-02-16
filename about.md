@@ -9,7 +9,7 @@ permalink: /about/index.html
 
 ### Career Goals
 
-I am ~2 years from my PhD defenense, and I am looking to apply my skills toward a career in plant genetics with an emphasis in bioinformatics. I am open to work in a commercial, academic, or government setting, and would be happy to relocate oustide of California.
+I am ~1 year from my PhD defenense, and I am looking to apply my skills toward a career in plant genetics with an emphasis in bioinformatics. I am open to work in a commercial, academic, or government setting, and would be happy to relocate oustide of California.
 
 ### Skills
 
