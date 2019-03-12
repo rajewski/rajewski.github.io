@@ -1,5 +1,5 @@
 name: Alex Rajewski
-bio: 'A Botanist with a mild addiction to Science Fiction'
+bio: 'A Botanist with a Mild Addiction to Science Fiction'
 picture: 'assets/images/mybio.jpg'
 
 url: http://rajewski.github.io
@@ -46,20 +46,21 @@ width: normal
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
+publications: true
+
 # if you don't need "about" or "blog", comment them out below
 about: true
-# blog: true
+#blog: true
 CV: true
-Publications: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 # show-tags: true
 
 # related posts inside a post?
-related: true
+# related: true
 
 # do you want some animations?
 animation: true
