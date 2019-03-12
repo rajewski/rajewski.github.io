@@ -1,0 +1,20 @@
+---
+layout: default
+permalink: /publications/index.html
+title: Publications
+---
+{% include header.html %}
+
+<section class="list">
+    {% for post in site.posts %}
+        {% if post.publications %}
+            <div class="item {% if post.star == true %}star{% endif %}">
+                <a class="url" href="{{ site.url }}{{ post.url }}">
+                    {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
+                </a>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>
+
+{% include footer.html %}
