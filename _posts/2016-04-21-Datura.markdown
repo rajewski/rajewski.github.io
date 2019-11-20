@@ -1,0 +1,15 @@
+---
+title: "Datura Genome"
+layout: post
+date: 2017-6-24 17:05
+tag: Solanaceae
+img: indigo/indigo.png
+projects: true
+description: "Genome Assembly for Jimson Weed (Datura stramonium)"
+---
+
+Add text about Datura genome assembly here. Thank Jason spcifically
+
+
+
+
