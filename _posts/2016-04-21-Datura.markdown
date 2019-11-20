@@ -19,7 +19,15 @@ Jimsonweed (*Datura stramonium*) is a weedy plant in the nightshade family notab
 
 Important for my dissertation research though is the fact that plants in the genus *Datura* produce a dry, dehiscent capsule, superfically similar to that of tobacco. *Datura* is actually more closely related to plants that produce a fleshy berry, such as tomato, instead of a dry capsule. This means that in terms of fruit type, *Datura* has undergone an evolutionary reversal, and this reversal presents an interesting opportunity to further understand the genetic basis of fruit evolution by comparing the dry fruit of *Datura* with the dry (but distantly related) fruit of tobacco and the closely related (but fleshy) fruit of tomato.
 
-Compared to tomato (*Solanum lycopersicum*) and tobacco (*Nicotiana spp.*), plants in the genus *Datura* lack many of the molecular and genetic tools that enable research. Chief among these genetic tools is a sequenced reference genome, which would ease the application of CRISPR-based gene knockouts (and many other experiments).
+Compared to tomato (*Solanum lycopersicum*) and tobacco (*Nicotiana spp.*), plants in the genus *Datura* lack many of the molecular and genetic tools that enable research. Chief among these genetic tools is a sequenced reference genome and the ability to make stable transgenic plants, which would ease the application of CRISPR-based gene knockouts (and many other experiments).
+
+[Previously](https://dx.doi.org/10.1002%2Faps3.1220) I developed a technique for stable transgenic transformation of *D. stramonium* by inserting a copy of the *GREEN FLUORESCENT PROTEIN* gene and tracking its inheritance. This was the first report of stable transgene inheritance in *Datura* and was an important step toward our lab's larger goal of making CRISPR-based gene knockouts.
+
+<center>
+<figure>
+    <img src="../assets/images/DstrGFP.png" alt="Datura fruit" width="300"/>
+</figure>
+</center>
 
 With guidance from [Amy Litt](https://profiles.ucr.edu/app/home/profile/amylitt) and [Jason Stajich](http://lab.stajich.org/home/welcome/) I am sequencing, assembling, and annotating the genome of *Datura stramonium* with a combination of Illumina and Oxford Nanopore sequencing technologies.
 
