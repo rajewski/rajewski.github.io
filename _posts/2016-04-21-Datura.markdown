@@ -12,7 +12,7 @@ Jimsonweed (*Datura stramonium*) is a weedy plant in the nightshade family notab
 
 <center>
 <figure>
-    <img src="../assets/images/Dstr.png" alt="Datura fruit"/>
+    <img src="../assets/images/Dstr.png" alt="Datura fruit" width="200"/>
     <figcaption>Mature fruit of Jimsonweed.</figcaption>
 </figure>
 </center>
