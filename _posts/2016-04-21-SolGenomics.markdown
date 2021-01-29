@@ -11,32 +11,25 @@ description: "On the origins of fleshy fruits in the nightshade family"
 ![Nobtusifolia Series](../assets/images/IMG_1325.jpg)
 
 ---
-Throughout the evolution of flowering plants (angiosperms) there have been many evolutionary transitions from an ancestral dry fruit to a more derived fleshy fruit. My current research examines the genetic mechanisms behind this economically and ecologically important trait in the nightshade family of plants (Solanaceae).
+Throughout the evolution of flowering plants (angiosperms) there have been many evolutionary transitions from an ancestral dry fruit to a more derived fleshy fruit. My dissertation research examined the genetic mechanisms behind this economically and ecologically important trait in the nightshade family of plants (Solanaceae).
 
 <figure>
     <img src="../assets/images/Solanaceae Annotated.jpg" alt="Sarkinen Phylogeny"/>
     <figcaption>Solanaceae phylogeny after Särkinen, et al, 2014. Fleshy-fruited taxa in red, dry-fruited taxa in black.</figcaption>
 </figure>
 
-In nightshades, early-diverging species like tobacco or petunia generally have a dry, dehiscent, capsular fruit, while later-diverging species like tomato or pepper have an edible, fleshy berry. Along with another grad student in [Amy Litt's](https://plantbiology.ucr.edu/people/faculty/litt.html) lab at UCR, we are investigating the developmental and evolutionary basis of dry vs fleshy fruits. My research specifically focuses on the dry-fruited species desert tobacco (<em>Nicotiana obtusifolia</em>) and aims to determine the role transcriptional networks involving homologs of the <em>Arabidopsis</em> transcription factor <em>FRUITFULL</em>.
+In nightshades, early-diverging species like tobacco or petunia generally have a dry, dehiscent, capsular fruit, while later-diverging species like tomato or pepper have an edible, fleshy berry. Along with another grad student in [Amy Litt's](https://plantbiology.ucr.edu/people/faculty/litt.html) lab at UCR, we investigated the developmental and evolutionary basis of dry vs fleshy fruits. My research specifically focused on the dry-fruited species desert tobacco (<em>Nicotiana obtusifolia</em>), but I extended the focus of this work into wild tomato (*Solanum pimpinellifolium*), *Arabidopsis thaliana*, and melon (*Cucumis melo*).
 
-I am also involved in some early work extending this project into other species in the nightshade family with different evolutionary origins of dry and fleshy fruits. This includes the genus <em>Datura</em>, which has reverted back to a dry-fruit, and the genus <em>Cestrum</em>, which has independently evolved fleshy berries.
 
 ---
 
-Currently, this project has one phenomenal undergraduate student working on it with me, as well as a number of very skilled past undergraduate 'alumni'.
+This project has had several phenomenally skilled past undergraduate 'alumni'.
 
-### Current People
 
 ##### Jessica Le
 <img src="../assets/images/File Nov 15, 1 50 57 PM.jpeg" alt="Jessica Le" width="200"/>
 
-3rd year, Biology, UCR, Sept 2017 to Present
-
----
-### Past People
-
-##### Kevan Elkins, current lab technician at UCR
+##### Kevan Elkins
 <img src="../assets/images/Kevan Elkins.png" alt="Kevan Elkins" width="150"/>
 
 ##### Ashley Henry, graduate student at UW-Madison
