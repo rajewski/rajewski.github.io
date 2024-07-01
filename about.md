@@ -5,7 +5,7 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I'm Alex Rajewski, a research bioinformatician in the Applied Genomics, Computation, and Translational Core of Cedars-Sinai Hospital in Los Angeles, CA. I recently finished my PhD in plant genetics at the University of California, Riverside. Originally from Topeka, KS, I obtained my bachelor's degree at Drake University in biochemistry, then worked in Germany for a year before getting my master's degree at the University of Georgia in horticulture. When not buried in botany or lines of code, I'm usually buried in an old sci-fi novel or a very very dark beer.</p>
+<p>Hi, I'm Alex Rajewski, a botanist turned cancer bioinformatician. I currently work at Tempus AI figuring out computational biology questions in precision oncology, but I also spent a while as a bioinformatician at the Cedar's Sinai Cancer Genomics Core working on several excellent research projects with faculty there. I got my PhD in plant genetics at UC Riverside, and my MS in horticulture and population genetics at the University of Georgia. When not buried in botany or lines of code, I'm usually buried in a sci-fi novel or a very very dark beer.</p>
 
 ### Skills
 
