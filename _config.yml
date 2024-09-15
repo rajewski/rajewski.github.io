@@ -1,9 +1,9 @@
 name: Alex Rajewski
-bio: 'A Botanist with a Mild Addiction to Science Fiction'
-picture: 'assets/images/mybio.jpg'
+bio: "A Botanist with a Mild Addiction to Science Fiction"
+picture: "assets/images/mybio.jpg"
 
-# url: http://rajewski.github.io
-url: http://localhost:3000
+url: https://rajewski.github.io
+# url: http://localhost:3000
 
 # if it's an external image, update below for true
 external-image: false
@@ -41,12 +41,28 @@ read-time: false
 animation: true
 
 plugins:
-  - jemoji
-  - jekyll-mentions
-  - jekyll-seo-tag
-  - jekyll-sitemap
+    - jemoji
+    - jekyll-mentions
+    - jekyll-seo-tag
+    - jekyll-sitemap
 
 jekyll-mentions:
     base_url: https://github.com
 
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh]
+exclude:
+    [
+        README.md,
+        Gemfile,
+        Gemfile.lock,
+        node_modules,
+        gulpfile.js,
+        package.json,
+        _site,
+        src,
+        vendor,
+        CNAME,
+        indigo-gh-pages.zip,
+        Rakefile,
+        screen-shot.png,
+        travis.sh,
+    ]
