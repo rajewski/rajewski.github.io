@@ -19,9 +19,9 @@ Throughout the evolution of flowering plants (angiosperms) there have been many 
     <figcaption>Solanaceae phylogeny after Särkinen, et al, 2014. Fleshy-fruited in red, dry in black.</figcaption>
 </figure>
 
-In nightshades, early-diverging species like tobacco or petunia generally have a dry, dehiscent, capsular fruit, while later-diverging species like tomato or pepper have an edible, fleshy berry. Along with another grad student in [Amy Litt's](https://plantbiology.ucr.edu/people/faculty/litt.html) lab at UCR, we investigated the developmental and evolutionary basis of dry vs fleshy fruits. My research specifically focused on the dry-fruited species desert tobacco (<em>Nicotiana obtusifolia</em>), but I extended the focus of this work into wild tomato (_Solanum pimpinellifolium_), _Arabidopsis thaliana_, and melon (_Cucumis melo_).
+In nightshades, early-diverging species like tobacco or petunia generally have a dry, dehiscent, capsular fruit, while later-diverging species like tomato or pepper have an edible, fleshy berry. Along with another grad student in [Amy Litt's](<(https://profiles.ucr.edu/app/home/profile/amylitt)>){:target="_blank"} lab at UCR, we investigated the developmental and evolutionary basis of dry vs fleshy fruits. My research specifically focused on the dry-fruited species desert tobacco (<em>Nicotiana obtusifolia</em>), but I extended the focus of this work into wild tomato (\_Solanum pimpinellifolium_), _Arabidopsis thaliana_, and melon (_Cucumis melo_).
 
-We found a "core" set of orthologous genes among the five species and examined patterns of gene expression in this core set among the species. These results were [published](https://doi.org/10.3389/fpls.2022.954929) in Frontiers in Plant Science in 2022
+We found a "core" set of orthologous genes among the five species and examined patterns of gene expression in this core set among the species. These results were [published](https://doi.org/10.3389/fpls.2022.954929){:target="\_blank"} in Frontiers in Plant Science in 2022
 
 This project has had several phenomenally skilled past undergraduate 'alumni'.
 
@@ -39,7 +39,7 @@ This project has had several phenomenally skilled past undergraduate 'alumni'.
 
 ##### Victoria Rios
 
-<img src="../assets/people/VictoriaRios.jpg" alt="Victoria Rios" width="150"/>
+<img src="../assets/people/Victoria_Rios.jpg" alt="Victoria Rios" width="150"/>
 
 ##### Eric Chang
 
