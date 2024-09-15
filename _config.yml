@@ -1,29 +1,18 @@
-name: Alex Rajewski
+title: Alex Rajewski
 bio: "A Botanist with a Mild Addiction to Science Fiction"
-picture: "assets/images/mybio.jpg"
+description: My professional website
 
 url: https://rajewski.github.io
-# url: http://localhost:3000
 
-# if it's an external image, update below for true
-# better with square images
 external-image: false
-
+picture: assets/images/profile.jpg
 permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-# if you don't want comments in your posts, leave categories empty
-disqus:
-    shortname: github # enter this from your disqus account
-    categories: [blog, project] # only show disqus for posts that have these categories
+dark-theme: auto
 
 # if you don't have any of social below, comment the line
-# twitter: rajewski
 linkedin: alex-rajewski-74b492103
 github: rajewski
 email: Alex.C.Rajewski+website@gmail.com
@@ -40,13 +29,18 @@ authors:
 # normal = 560px / large = 810px
 width: normal
 
-# Include in nav.html?
-
 # if you don't need projects, comment the *projects* configs below
-projects: true
-publications: true
 about: true
-CV: true
+CV: false
+projects: true
+
+publications: true
+publications-external: true
+publications-url: https://scholar.google.com/citations?user=R3QB9ugAAAAJ&hl=en
+
+resume: true
+resume-external: false
+resume-url: resume/Rajewski_Resume.pdf
 
 # do you want to show the "read time" of the posts?
 read-time: false
