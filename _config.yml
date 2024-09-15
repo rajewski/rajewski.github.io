@@ -18,7 +18,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't have any of social below, comment the line
-twitter: rajewski
+# twitter: rajewski
 linkedin: alex-rajewski-74b492103
 github: rajewski
 email: Alex.C.Rajewski+website@gmail.com
@@ -28,7 +28,7 @@ email: Alex.C.Rajewski+website@gmail.com
 # normal = 560px / large = 810px
 width: normal
 
-# if you don't need projects, comment the *projects* configs below
+# Include in nav.html?
 projects: true
 publications: true
 about: true
