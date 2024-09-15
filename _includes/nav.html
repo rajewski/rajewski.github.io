@@ -29,7 +29,13 @@
                 </li>
             {% endif %}
         {% endif %}
-        
+
+        {% if site.resume == true %}
+            <li class="item">
+                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+            </li>
+        {% endif %}
+
         {% if site.CV == true %}
             {% if page.title != "Alex Rajewski" %}
                 <li class="item">
@@ -37,7 +43,7 @@
                 </li>
             {% endif %}
         {% endif %}
-        
+
         {% if site.publications == true %}
             {% if page.title != "Publications" %}
                 <li class="item">
@@ -45,6 +51,6 @@
                 </li>
             {% endif %}
         {% endif %}
-        
+
     </ul>
 </nav>

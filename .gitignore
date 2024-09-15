@@ -3,7 +3,11 @@ _site
 .DS_Store
 .jekyll-cache
 .Rproj.user
+_site
 .sass-cache
+Gemfile.lock
+.bundle
+vendor/
 node_modules
 npm-debug.log
 tmp
