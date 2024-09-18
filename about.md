@@ -25,6 +25,6 @@ Hi, I'm Alex Rajewski, a botanist turned cancer bioinformatician. I currently wo
 -   Spatial transcripomics
 -   Genome assembly and annotation
 -   Phylogenetics
--   opulation genetics
+-   Population genetics
 -   Histology and cytotechnique
 -   Tissue culture
